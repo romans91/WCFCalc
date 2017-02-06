@@ -1,0 +1,9 @@
+c:\WCFCalc\WCFCalc.Test\bin\Debug\WCFCalc.Test.dll
+c:\WCFCalc\WCFCalc.Test\bin\Debug\WCFCalc.Test.pdb
+c:\WCFCalc\WCFCalc.Test\bin\Debug\nunit.framework.dll
+c:\WCFCalc\WCFCalc.Test\bin\Debug\WCFCalc.dll
+c:\WCFCalc\WCFCalc.Test\bin\Debug\WCFCalc.pdb
+c:\WCFCalc\WCFCalc.Test\bin\Debug\nunit.framework.xml
+c:\WCFCalc\WCFCalc.Test\obj\Debug\WCFCalc.Test.csprojResolveAssemblyReference.cache
+c:\WCFCalc\WCFCalc.Test\obj\Debug\WCFCalc.Test.dll
+c:\WCFCalc\WCFCalc.Test\obj\Debug\WCFCalc.Test.pdb

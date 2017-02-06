@@ -1,0 +1,6 @@
+c:\WCFCalc\WCFCalc\bin\Debug\WCFCalc.dll.config
+c:\WCFCalc\WCFCalc\bin\Debug\WCFCalc.dll
+c:\WCFCalc\WCFCalc\bin\Debug\WCFCalc.pdb
+c:\WCFCalc\WCFCalc\obj\Debug\WCFCalcService.csprojResolveAssemblyReference.cache
+c:\WCFCalc\WCFCalc\obj\Debug\WCFCalc.dll
+c:\WCFCalc\WCFCalc\obj\Debug\WCFCalc.pdb

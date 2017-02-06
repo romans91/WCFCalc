@@ -1,0 +1,15 @@
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\bin\Debug\WCFCalcWinClient.exe.config
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\bin\Debug\WCFCalcWinClient.exe
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\bin\Debug\WCFCalcWinClient.pdb
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.csprojResolveAssemblyReference.cache
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.Form1.resources
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.Properties.Resources.resources
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.csproj.GenerateResource.Cache
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.exe
+C:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.pdb
+C:\Users\Roman\Desktop\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\bin\Debug\WCFCalcWinClient.exe.config
+C:\Users\Roman\Desktop\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.exe
+C:\Users\Roman\Desktop\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.pdb
+X:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\bin\Debug\WCFCalcWinClient.exe.config
+X:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.exe
+X:\WCFCalc\WCFCalc.Clients\WCFCalcWinClient\WCFCalcWinClient\obj\Debug\WCFCalcWinClient.pdb
